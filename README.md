@@ -15,6 +15,7 @@ Tools für die Linux-Welt, meist in Python oder Bash geschrieben. Der Fokus lieg
 
 * * *
 
+
 ## 🪟 Windows Skripte
 
 Diese Sammlung umfasst PowerShell- und Batch-Skripte zur Systempflege und Automatisierung von Windows-Prozessen.
