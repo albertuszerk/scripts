@@ -11,7 +11,7 @@ Tools für die Linux-Welt, meist in Python oder Bash geschrieben. Der Fokus lieg
 | **Kurzbeschreibung** | **Vorschau** | **Download** |
 | --- | --- | --- |
 | **[iPhone Photo Manager](README-iphone-manager.md):** Rekursive Apple-Backups chronologisch sortieren, global nummerieren und mit einem 1971-Anker-Datum für Sorgenkinder versehen. | ![Bild 1](images/Photo-Manager-Piktogramm.jpg) | [iphone-photo-manager.py](Photo-Manager/iphone-photo-manager.py) |
-| **Install Skripte Sammlung:** Automatisierte Installation von Standard-Tools unter Zorin OS inklusive automatischer Deinstallations-Befehle. |     | [README-install-scripts.md](https://www.google.com/search?q=./README-install-scripts.md) |
+| **Install Skripte Sammlung:** Automatisierte Installation von Standard-Tools unter Zorin OS inklusive automatischer Deinstallations-Befehle. |   c  | [README-install-scripts.md](https://www.google.com/search?q=./README-install-scripts.md) |
 | **Plank-Add Script:** Schnelles Hinzufügen von Apps zum Plank-Dock via Kommandozeile. |     | [README-plank-add.md](https://www.google.com/search?q=./README-plank-add.md) |
 
 * * *
